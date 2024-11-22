@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5691a0b7-9997-41dc-a2ad-90f54b38e0d8)Stock analysis website using Django Framework
+## Stock analysis website using Django Framework
 admin website username :- admin password :- 12345 please note these passwords user website username :- Aravind password :- 12345
 
 This website helps to analys NSE listed Stock indexwise steps to access website are as bellow
