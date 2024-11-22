@@ -1,0 +1,602 @@
+[
+  {
+    "model": "indexes.nifty_50",
+    "pk": 1,
+    "fields": {
+      "name": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 4040472395776
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 2,
+    "fields": {
+      "name": "Adani Enterprises Limited",
+      "symbol": "ADANIENT",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "market_cap": 3532288688128
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 3,
+    "fields": {
+      "name": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 1073972314112
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 4,
+    "fields": {
+      "name": "Adani Ports and Special Economic Zone Limited",
+      "symbol": "ADANIPORTS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Marine Shipping",
+      "market_cap": 2623165956096
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 5,
+    "fields": {
+      "name": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 6965590228992
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 6,
+    "fields": {
+      "name": "SBI Life Insurance Company Limited",
+      "symbol": "SBILIFE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 1455557574656
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 7,
+    "fields": {
+      "name": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1275597160448
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 8,
+    "fields": {
+      "name": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 13434149142528
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 9,
+    "fields": {
+      "name": "Reliance Industries Limited",
+      "symbol": "RELIANCE",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 17930869800960
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 10,
+    "fields": {
+      "name": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 1211321942016
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 11,
+    "fields": {
+      "name": "Asian Paints Limited",
+      "symbol": "ASIANPAINT",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 3151569879040
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 12,
+    "fields": {
+      "name": "HDFC Life Insurance Company Limited",
+      "symbol": "HDFCLIFE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 1387068260352
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 13,
+    "fields": {
+      "name": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 1662437687296
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 14,
+    "fields": {
+      "name": "JSW Steel Limited",
+      "symbol": "JSWSTEEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 2018994683904
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 15,
+    "fields": {
+      "name": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 12572765978624
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 16,
+    "fields": {
+      "name": "Titan Company Limited",
+      "symbol": "TITAN",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods",
+      "market_cap": 3297636515840
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 17,
+    "fields": {
+      "name": "Bharti Airtel Limited",
+      "symbol": "BHARTIARTL",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "market_cap": 6237528260608
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 18,
+    "fields": {
+      "name": "Nestl\u00e9 India Limited",
+      "symbol": "NESTLEIND",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 2485693186048
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 19,
+    "fields": {
+      "name": "Hero MotoCorp Limited",
+      "symbol": "HEROMOTOCO",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 827142373376
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 20,
+    "fields": {
+      "name": "Wipro Limited",
+      "symbol": "WIPRO",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 2366472192000
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 21,
+    "fields": {
+      "name": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 2030435827712
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 22,
+    "fields": {
+      "name": "Tata Motors Limited",
+      "symbol": "TATAMOTORS",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 2960059006976
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 23,
+    "fields": {
+      "name": "LTIMindtree Limited",
+      "symbol": "LTIM",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 1762190819328
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 24,
+    "fields": {
+      "name": "Grasim Industries Limited",
+      "symbol": "GRASIM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 1367450189824
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 25,
+    "fields": {
+      "name": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3618749022208
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 26,
+    "fields": {
+      "name": "Power Grid Corporation of India Limited",
+      "symbol": "POWERGRID",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric",
+      "market_cap": 2224238362624
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 27,
+    "fields": {
+      "name": "Dr. Reddy's Laboratories Limited",
+      "symbol": "DRREDDY",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 963632562176
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 28,
+    "fields": {
+      "name": "Hindustan Unilever Limited",
+      "symbol": "HINDUNILVR",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 6059003478016
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 29,
+    "fields": {
+      "name": "Hindalco Industries Limited",
+      "symbol": "HINDALCO",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Aluminum",
+      "market_cap": 1232153739264
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 30,
+    "fields": {
+      "name": "Maruti Suzuki India Limited",
+      "symbol": "MARUTI",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 3147237163008
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 31,
+    "fields": {
+      "name": "Tata Consumer Products Limited",
+      "symbol": "TATACONSUM",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 1035151409152
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 32,
+    "fields": {
+      "name": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 1997480919040
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 33,
+    "fields": {
+      "name": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 3178752376832
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 34,
+    "fields": {
+      "name": "UPL Limited",
+      "symbol": "UPL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "market_cap": 419289595904
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 35,
+    "fields": {
+      "name": "State Bank of India",
+      "symbol": "SBIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 5548875972608
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 36,
+    "fields": {
+      "name": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 4742670450688
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 37,
+    "fields": {
+      "name": "Apollo Hospitals Enterprise Limited",
+      "symbol": "APOLLOHOSP",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "market_cap": 834082373632
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 38,
+    "fields": {
+      "name": "Larsen & Toubro Limited",
+      "symbol": "LT",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "market_cap": 4873467199488
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 39,
+    "fields": {
+      "name": "ITC Limited",
+      "symbol": "ITC",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "market_cap": 5779945422848
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 40,
+    "fields": {
+      "name": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 6290698928128
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 41,
+    "fields": {
+      "name": "Britannia Industries Limited",
+      "symbol": "BRITANNIA",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 1225211248640
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 42,
+    "fields": {
+      "name": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3414275915776
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 43,
+    "fields": {
+      "name": "Bajaj Finserv Ltd.",
+      "symbol": "BAJAJFINSV",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Financial Conglomerates",
+      "market_cap": 2660816125952
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 44,
+    "fields": {
+      "name": "Eicher Motors Limited",
+      "symbol": "EICHERMOT",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 1051994161152
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 45,
+    "fields": {
+      "name": "Divi's Laboratories Limited",
+      "symbol": "DIVISLAB",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 1036032540672
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 46,
+    "fields": {
+      "name": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 2817129185280
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 47,
+    "fields": {
+      "name": "Coal India Limited",
+      "symbol": "COALINDIA",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "market_cap": 2354470977536
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 48,
+    "fields": {
+      "name": "Bharat Petroleum Corporation Limited",
+      "symbol": "BPCL",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 975791980544
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 49,
+    "fields": {
+      "name": "Oil and Natural Gas Corporation Limited",
+      "symbol": "ONGC",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "market_cap": 2668281724928
+    }
+  },
+  {
+    "model": "indexes.nifty_50",
+    "pk": 50,
+    "fields": {
+      "name": "NTPC Limited",
+      "symbol": "NTPC",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric",
+      "market_cap": 3039401082880
+    }
+  }
+]

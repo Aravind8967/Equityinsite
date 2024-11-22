@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+{% load static %}
+{% include 'base.html' %}
+
+{% block content %}
+<html lang="en">
+    <head>
+        <title>Stocklysis</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+        <link rel="stylesheet" href="{% static 'css/main.css' %}">
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+        <style>
+            .about-block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 500px;
+                border-radius: 20px;
+                background-color: rgb(98, 98, 164);
+                box-shadow: 10px 10px 20px black;
+
+            }
+            p{
+                font-size: 20px;
+            }
+            .fundamenta_block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 400px;
+                border-radius: 20px;
+                background-color: rgb(98, 98, 164);
+                box-shadow: 10px 10px 20px black;
+            }
+            .technical_block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 400px;
+                border-radius: 20px;
+                box-shadow: 10px 10px 20px black;
+            }
+            .graph_block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 800px;
+                background-color: rgb(18, 19, 32);
+            }
+            .red_block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 300px;
+                border-radius: 20px;
+                background-color: rgb(46, 25, 25);
+                box-shadow: 10px 10px 20px black;
+            }
+            .green_block{
+                margin-top: 10%;
+                font-family: 'Courier New', Courier, monospace;
+                height: 300px;
+                border-radius: 20px;
+                background-color: rgb(25, 62, 21);
+                box-shadow: 10px 10px 20px black;
+            }
+            hr{
+                color: white;
+            }
+            h1{
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-size: 50px;
+                text-align: center;
+            }
+            a{
+                color: rgb(220, 195, 255);
+                text-decoration: none;
+            }
+            label{
+                font-family: Didot;
+                color: rgb(220, 195, 255);
+                font-size: 30px;
+                margin-top: 20px;
+                margin-left: 20px;
+            }
+            .navbar {
+                position: fixed;
+                width: 83.2%;
+                z-index: 900;
+                margin-top: 4%;
+                color: white;
+                background-color: rgb(22, 23, 33);
+                border-radius: 10px;
+            }
+            .navbar ul li a{
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-sm-1">
+
+            </div>
+            <div class="col-sm-10">
+                <div data-spy="scroll" data-target=".navbar" data-offset="50">
+                    <nav class="navbar navbar-expand-sm">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#about">About</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#fundamental">Fundamental</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#technical">Technical</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#graph">Graph</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div><br><br><br><br>
+                <div class="about-block">
+                    <section id="about">
+                        <h1>{{name}}</h1><hr>
+                        <div class="col-sm-6" style="text-align: left; float: left;">
+                            <label>NSE : {{symbol}}</label><br>
+                            <label>Marketcap : {{market_cap}}</label><br>
+                            <label>Website : <a href="{{website}}">{{website}}</a></label><br>
+                            <label>Day High : {{day_high}}</label><br>
+                            <label>52 Weeks High : {{high_52_weeks}}</label><br>
+                            <label>Phone : {{phone}}</label><br>
+                        </div>
+                        <div class="col-sm-6" style="text-align: left;float: right;">
+                            {% if day_percent < 0%}
+                                <label>
+                                    Price : <span  style="color: red;">{{current_price}} ({{day_percent}}) &#11015;</span>
+                                </label><br>
+                                {% else %}
+                                <label>
+                                    Price : <span  style="color: rgb(0, 255, 0);">{{current_price}} ({{day_percent}}) &#11014;</span>
+                                </label><br>
+                            {% endif %}
+                            <label>Sector : {{sector}}</label><br>
+                            <label>Total Shares : {{total_shares}}</label><br>
+                            <label>Day Low : {{day_low}}</label><br>
+                            <label>52 Weeks Low : {{low_52_weeks}}</label><br>
+                        </div>
+                    </section>
+                </div>
+                <div class="fundamenta_block">
+                    <section id="fundamental">
+                        <h1>Fundamental Analysis</h1><hr>
+                        <div class="col-sm-12">
+                            <div class="col-sm-6" style="text-align: left; float: left;">
+                                <label>Book value : {{book_val}}</label><br>
+                                <label>Quarterly Income  : {{last_income_quarter}}</label><br>
+                                <label>Overall Income : {{last_income}}</label><br>
+                            </div>
+                            <div class="col-sm-6" style="text-align: left;float: right;">
+                                <label>PB Ratio : {{price_to_book}}</label><br>
+                                <label>Quarterly Revenue : {{last_revenue_quarter}}</label><br>
+                                <label>Overall Revenue : {{last_revenue}}</label><br>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div>
+                    <section id="technical" class="block">
+                        <div class="col-sm-12">
+                            {% if recommendation == 'BUY' or recommendation == 'STRONG_BUY' %}
+                                <div class="technical_block" style="background-color: rgb(15, 49, 15);">
+                                    <h1>Technical Analysis</h1><hr>
+                                    <ul style="margin-left: 10%;">
+                                        <li><p style="color: #00ff00;">Overall Technical Sentiment is Bullish</p></li>
+                                        {% if rsi == 'BUY' or rsi == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">RSI Indicating {{rsi}}</p></li>
+                                        {% elif rsi == 'SELL' or rsi == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">RSI Indicating {{rsi}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">RSI Indicating {{rsi}}</p></li>
+                                        {% endif %}
+
+                                        {% if adx == 'BUY' or adx == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">ADX Indicating {{adx}}</p></li>
+                                        {% elif adx == 'SELL' or adx == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">ADX Indicating {{adx}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">ADX Indicating {{adx}}</p></li>
+                                        {% endif %}
+
+                                        {% if macd == 'BUY' or macd == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">MACD Indicating {{macd}}</p></li>
+                                        {% elif macd == 'SELL' or macd == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">MACD Indicating {{macd}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">MACD Indicating {{macd}}</p></li>
+                                        {% endif %}
+
+                                        {% if sma_200 %}
+                                        <li><p style="color: rgb(220, 195, 255)">{{sma_200}} is the best time to buy the stock</p></li>
+                                        {% endif %}
+                                    </ul>
+                                </div>
+                            {% elif recommendation == 'SELL' or recommendation == 'STRONG_SELL' %}
+                                <div class="technical_block" style="background-color: rgb(46, 14, 14);">
+                                    <h1>Technical Analysis</h1><hr>
+                                    <ul style="margin-left: 10%;">
+                                        <li><p style="color: #ff0000;">Overall Technical Sentiment is Bearish</p></li>
+                                        {% if rsi == 'BUY' or rsi == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">RSI Indicating {{rsi}}</p></li>
+                                        {% elif rsi == 'SELL' or rsi == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">RSI Indicating {{rsi}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">RSI Indicating {{rsi}}</p></li>
+                                        {% endif %}
+
+                                        {% if adx == 'BUY' or adx == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">ADX Indicating {{adx}}</p></li>
+                                        {% elif adx == 'SELL' or adx == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">ADX Indicating {{adx}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">ADX Indicating {{adx}}</p></li>
+                                        {% endif %}
+
+                                        {% if macd == 'BUY' or macd == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">MACD Indicating {{macd}}</p></li>
+                                        {% elif macd == 'SELL' or macd == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">MACD Indicating {{macd}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">MACD Indicating {{macd}}</p></li>
+                                        {% endif %}
+                                        
+                                        {% if sma_200 %}
+                                        <li><p style="color: rgb(220, 195, 255)">{{sma_200}} is the best time to buy the stock</p></li>
+                                        {% endif %}
+                                    </ul>
+                                </div>
+                            {% else %}
+                                <div class="technical_block" style="background-color: rgb(75, 83, 75);">
+                                    <h1>Technical Analysis</h1><hr>
+                                    <ul style="margin-left: 10%;">
+                                        <li><p style="color: #a2a8a2;">Overall Technical Sentiment is Nutral</p></li>
+                                        {% if rsi == 'BUY' or rsi == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">RSI Indicating {{rsi}}</p></li>
+                                        {% elif rsi == 'SELL' or rsi == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">RSI Indicating {{rsi}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">RSI Indicating {{rsi}}</p></li>
+                                        {% endif %}
+
+                                        {% if adx == 'BUY' or adx == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">ADX Indicating {{adx}}</p></li>
+                                        {% elif adx == 'SELL' or adx == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">ADX Indicating {{adx}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">ADX Indicating {{adx}}</p></li>
+                                        {% endif %}
+
+                                        {% if macd == 'BUY' or macd == 'STROUNG_BUY' %}
+                                            <li><p style="color: #00ff00;">MACD Indicating {{macd}}</p></li>
+                                        {% elif macd == 'SELL' or macd == 'STROUNG_SELL' %}
+                                            <li><p style="color: #ff0000;">MACD Indicating {{macd}}</p></li>
+                                        {% else %}
+                                            <li><p style="color: #a39e9e;">MACD Indicating {{macd}}</p></li>
+                                        {% endif %}
+
+                                        {% if sma_200 %}
+                                            <li><p style="color: rgb(220, 195, 255)">{{sma_200}} is the best time to buy the stock</p></li>
+                                        {% endif %}
+                                    </ul>
+                                </div>
+                            {% endif %}
+                        </div>
+                    </section>
+                </div>
+                <div>
+                    <section id="graph" class="block">
+                        <div class="graph_block">
+                            <h1>Line Graph</h1><hr>
+                            <div class="col-sm-12">
+                                <div style="margin-top: -5%;">{{line_graph | safe}}</div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+{% endblock %}

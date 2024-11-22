@@ -1,0 +1,146 @@
+[
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 1,
+    "fields": {
+      "name": "Union Bank of India",
+      "symbol": "UNIONBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 914696306688
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 2,
+    "fields": {
+      "name": "Indian Bank",
+      "symbol": "INDIANB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 569831391232
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 3,
+    "fields": {
+      "name": "Bank of Baroda Limited",
+      "symbol": "BANKBARODA",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1157608898560
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 4,
+    "fields": {
+      "name": "State Bank of India",
+      "symbol": "SBIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 5548875972608
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 5,
+    "fields": {
+      "name": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 434046959616
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 6,
+    "fields": {
+      "name": "Indian Overseas Bank",
+      "symbol": "IOB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 809762816000
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 7,
+    "fields": {
+      "name": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1039551758336
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 8,
+    "fields": {
+      "name": "Canara Bank",
+      "symbol": "CANBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 814090878976
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 9,
+    "fields": {
+      "name": "Bank of Maharashtra",
+      "symbol": "MAHABANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 320641499136
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 10,
+    "fields": {
+      "name": "Bank of India Limited",
+      "symbol": "BANKINDIA",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 538351337472
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 11,
+    "fields": {
+      "name": "UCO Bank",
+      "symbol": "UCOBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 477279813632
+    }
+  },
+  {
+    "model": "indexes.nifty_psu_bank",
+    "pk": 12,
+    "fields": {
+      "name": "Punjab & Sind Bank",
+      "symbol": "PSB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 289750515712
+    }
+  }
+]

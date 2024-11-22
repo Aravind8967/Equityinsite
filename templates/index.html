@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+{% load static %}
+{% include 'base.html' %}
+
+{% block content %}
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale = 1">
+        <title>home</title>
+        <link rel="stylesheet" href="{% static '/css/main.css' %}">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <style>
+            details summary{
+                font-size: 20px;
+                font-family: Didot;
+                margin-bottom: 10px;
+                
+            }
+
+            details ol li{
+                margin-left: 30px;
+            }
+
+            details ol li a{
+                
+                font-size: 20px;
+                font-family: Didot;
+                color: rgb(76, 103, 213);
+                margin-top: 5px;
+                margin-left: 20px;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="text-align: center; margin-bottom: 5%; margin-top: 5%;">Stock Analysis by NSE Index</h1>
+        <div class="row">
+            <div class="col-sm-6" style="float: left;">
+                <div class="col-sm-2" style="float: left;">
+
+                </div>
+                <div class="col-sm-10" style="float: right;">
+
+                    <h3 style="margin-bottom: 30px;"><u>Broad Market Indexes</u></h3>
+
+                    <details>
+                        <summary>Nifty 50</summary>
+                        <ol>
+                            {% for company in nifty_50 %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+
+                    <details>
+                        <summary>Nifty Next</summary>
+                        <ol>
+                            {% for company in nifty_next %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+
+                    <details>
+                        <summary>Nifty Mid-Cap</summary>
+                        <ol>
+                            {% for company in nifty_midcap %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+
+                    <details>
+                        <summary>Nifty Small-Cap</summary>
+                        <ol>
+                            {% for company in nifty_smallcap %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                </div>
+            </div>
+            <div class="col-sm-6" style="float: right;">
+                <div class="col-sm-10" style="float: left;">
+
+                    <h3 style="margin-bottom: 30px;"><u>Sector Specific Indexes</u></h1>
+                    <details>
+                        <summary>Nifty Bank</summary>
+                        <ol>
+                            {% for company in nifty_bank %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+
+                    <details>
+                        <summary>Financing Bank Sector</summary>
+                        <ol>
+                            {% for company in nifty_finance %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+
+                    <details>
+                        <summary>PSU Banks Sector</summary>
+                        <ol>
+                            {% for company in nifty_psu_bank %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                    
+                    <details>
+                        <summary>IT Sector</summary>
+                        <ol>
+                            {% for company in nifty_it %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                    
+                    <details>
+                        <summary>Automobile Sector</summary>
+                        <ol>
+                            {% for company in nifty_auto %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                    
+                    <details>
+                        <summary>Metal Sector</summary>
+                        <ol>
+                            {% for company in nifty_metal %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                    
+                    <details>
+                        <summary>Pharmaceutical Sector</summary>
+                        <ol>
+                            {% for company in nifty_pharma %}
+                            <li>
+                                <a href="{% url 'analysis' %}?name={{company.symbol}}">{{company.name}}</a>
+                            </li><br>
+                            {% endfor %}
+                        </ol>
+                    </details><hr>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+{% endblock %}

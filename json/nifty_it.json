@@ -1,0 +1,122 @@
+[
+  {
+    "model": "indexes.nifty_it",
+    "pk": 1,
+    "fields": {
+      "name": "HCL Technologies Limited",
+      "symbol": "HCLTECH",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 4040472395776
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 2,
+    "fields": {
+      "name": "L&T Technology Services Limited",
+      "symbol": "LTTS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 564894957568
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 3,
+    "fields": {
+      "name": "Tech Mahindra Limited",
+      "symbol": "TECHM",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 1211321942016
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 4,
+    "fields": {
+      "name": "LTIMindtree Limited",
+      "symbol": "LTIM",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 1762190819328
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 5,
+    "fields": {
+      "name": "Tata Consultancy Services Limited",
+      "symbol": "TCS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 13434149142528
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 6,
+    "fields": {
+      "name": "Wipro Limited",
+      "symbol": "WIPRO",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 2366472192000
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 7,
+    "fields": {
+      "name": "Coforge Limited",
+      "symbol": "COFORGE",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 380060172288
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 8,
+    "fields": {
+      "name": "Persistent Systems Limited",
+      "symbol": "PERSISTENT",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 556607602688
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 9,
+    "fields": {
+      "name": "Mphasis Limited",
+      "symbol": "MPHASIS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 483112321024
+    }
+  },
+  {
+    "model": "indexes.nifty_it",
+    "pk": 10,
+    "fields": {
+      "name": "Infosys Limited",
+      "symbol": "INFY",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 6290698928128
+    }
+  }
+]

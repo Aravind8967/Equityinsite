@@ -1,0 +1,182 @@
+[
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 1,
+    "fields": {
+      "name": "Adani Enterprises Limited",
+      "symbol": "ADANIENT",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Thermal Coal",
+      "market_cap": 3532288688128
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 2,
+    "fields": {
+      "name": "Welspun Corp Limited",
+      "symbol": "WELCORP",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 144285548544
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 3,
+    "fields": {
+      "name": "APL Apollo Tubes Limited",
+      "symbol": "APLAPOLLO",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 434590253056
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 4,
+    "fields": {
+      "name": "Ratnamani Metals & Tubes Limited",
+      "symbol": "RATNAMANI",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 234398154752
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 5,
+    "fields": {
+      "name": "JSW Steel Limited",
+      "symbol": "JSWSTEEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 2018994683904
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 6,
+    "fields": {
+      "name": "Tata Steel Limited",
+      "symbol": "TATASTEEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 1662437687296
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 7,
+    "fields": {
+      "name": "Jindal Steel & Power Limited",
+      "symbol": "JINDALSTEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 745685778432
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 8,
+    "fields": {
+      "name": "Vedanta Limited",
+      "symbol": "VEDL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "market_cap": 992090718208
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 9,
+    "fields": {
+      "name": "Hindalco Industries Limited",
+      "symbol": "HINDALCO",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Aluminum",
+      "market_cap": 1232153739264
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 10,
+    "fields": {
+      "name": "Hindustan Zinc Limited",
+      "symbol": "HINDZINC",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "market_cap": 1340482781184
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 11,
+    "fields": {
+      "name": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Aluminum",
+      "market_cap": 240047538176
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 12,
+    "fields": {
+      "name": "Jindal Stainless Limited",
+      "symbol": "JSL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 507317583872
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 13,
+    "fields": {
+      "name": "Steel Authority of India Limited",
+      "symbol": "SAIL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 475424587776
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 14,
+    "fields": {
+      "name": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Copper",
+      "market_cap": 260564631552
+    }
+  },
+  {
+    "model": "indexes.nifty_metal",
+    "pk": 15,
+    "fields": {
+      "name": "NMDC Limited",
+      "symbol": "NMDC",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 617919152128
+    }
+  }
+]

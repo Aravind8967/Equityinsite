@@ -1,0 +1,182 @@
+[
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 1,
+    "fields": {
+      "name": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 739646242816
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 2,
+    "fields": {
+      "name": "Tata Motors Limited",
+      "symbol": "TATAMOTORS",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 2960059006976
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 3,
+    "fields": {
+      "name": "Tube Investments of India Limited",
+      "symbol": "TIINDIA",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "market_cap": 756897873920
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 4,
+    "fields": {
+      "name": "Maruti Suzuki India Limited",
+      "symbol": "MARUTI",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 3147237163008
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 5,
+    "fields": {
+      "name": "Hero MotoCorp Limited",
+      "symbol": "HEROMOTOCO",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 827142373376
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 6,
+    "fields": {
+      "name": "Mahindra & Mahindra Limited",
+      "symbol": "M&M",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 2030435827712
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 7,
+    "fields": {
+      "name": "Bharat Forge Limited",
+      "symbol": "BHARATFORG",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 597746384896
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 8,
+    "fields": {
+      "name": "Bosch Limited",
+      "symbol": "BOSCHLTD",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 667003650048
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 9,
+    "fields": {
+      "name": "TVS Motor Company Limited",
+      "symbol": "TVSMOTOR",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 959818760192
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 10,
+    "fields": {
+      "name": "Balkrishna Industries Limited",
+      "symbol": "BALKRISIND",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 512251363328
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 11,
+    "fields": {
+      "name": "Bajaj Auto Limited",
+      "symbol": "BAJAJ-AUTO",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 1997480919040
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 12,
+    "fields": {
+      "name": "MRF Limited",
+      "symbol": "MRF",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 559102754816
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 13,
+    "fields": {
+      "name": "Eicher Motors Limited",
+      "symbol": "EICHERMOT",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 1051994161152
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 14,
+    "fields": {
+      "name": "Ashok Leyland Limited",
+      "symbol": "ASHOKLEY",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery",
+      "market_cap": 515139731456
+    }
+  },
+  {
+    "model": "indexes.nifty_auto",
+    "pk": 15,
+    "fields": {
+      "name": "Sona BLW Precision Forgings Limited",
+      "symbol": "SONACOMS",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 360485879808
+    }
+  }
+]

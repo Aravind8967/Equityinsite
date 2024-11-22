@@ -1,0 +1,14 @@
+[
+  {
+    "model": "indexes.nifty_50",
+    "pk": 1,
+    "fields": {
+      "name": "itc",
+      "symbol": "itc",
+      "exchange": "NSE",
+      "sector": "Consumer",
+      "industry": "Consumer",
+      "market_cap": 123456999
+    }
+  }
+]

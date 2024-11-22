@@ -1,0 +1,1202 @@
+[
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 1,
+    "fields": {
+      "name": "Cochin Shipyard Limited",
+      "symbol": "COCHINSHIP",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 211201409024
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 2,
+    "fields": {
+      "name": "Tanla Platforms Limited",
+      "symbol": "TANLA",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "market_cap": 160996376576
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 3,
+    "fields": {
+      "name": "Welspun Living Limited",
+      "symbol": "WELSPUNLIV",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "market_cap": 151141711872
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 4,
+    "fields": {
+      "name": "NLC India Limited",
+      "symbol": "NLCINDIA",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric",
+      "market_cap": 319488294912
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 5,
+    "fields": {
+      "name": "Graphite India Limited",
+      "symbol": "GRAPHITE",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 107886632960
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 6,
+    "fields": {
+      "name": "Century Textiles and Industries Limited",
+      "symbol": "CENTURYTEX",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Paper & Paper Products",
+      "market_cap": 177261559808
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 7,
+    "fields": {
+      "name": "Amber Enterprises India Limited",
+      "symbol": "AMBER",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Furnishings, Fixtures & Appliances",
+      "market_cap": 117970067456
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 8,
+    "fields": {
+      "name": "Campus Activewear Limited",
+      "symbol": "CAMPUS",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "market_cap": 89150013440
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 9,
+    "fields": {
+      "name": "Birlasoft Limited",
+      "symbol": "BSOFT",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 203849564160
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 10,
+    "fields": {
+      "name": "Aegis Logistics Limited",
+      "symbol": "AEGISCHEM",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 125957529600
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 11,
+    "fields": {
+      "name": "Data Patterns (India) Limited",
+      "symbol": "DATAPATTNS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 110753226752
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 12,
+    "fields": {
+      "name": "The Karur Vysya Bank Limited",
+      "symbol": "KARURVYSYA",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 132477894656
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 13,
+    "fields": {
+      "name": "Jubilant Ingrevia Limited",
+      "symbol": "JUBLINGREA",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 77442416640
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 14,
+    "fields": {
+      "name": "Raymond Limited",
+      "symbol": "RAYMOND",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "market_cap": 116537581568
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 15,
+    "fields": {
+      "name": "Aavas Financiers Limited",
+      "symbol": "AAVAS",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Mortgage Finance",
+      "market_cap": 124149276672
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 16,
+    "fields": {
+      "name": "BLS International Services Limited",
+      "symbol": "BLS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "market_cap": 148748664832
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 17,
+    "fields": {
+      "name": "NBCC (India) Limited",
+      "symbol": "NBCC",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "market_cap": 166500007936
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 18,
+    "fields": {
+      "name": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
+      "symbol": "GNFC",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "market_cap": 113571717120
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 19,
+    "fields": {
+      "name": "Sonata Software Limited",
+      "symbol": "SONATSOFTW",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 196053368832
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 20,
+    "fields": {
+      "name": "CIE Automotive India Limited",
+      "symbol": "CIEINDIA",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 183080271872
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 21,
+    "fields": {
+      "name": "UTI Asset Management Company Limited",
+      "symbol": "UTIAMC",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "market_cap": 113339924480
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 22,
+    "fields": {
+      "name": "Praj Industries Limited",
+      "symbol": "PRAJIND",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "market_cap": 99010871296
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 23,
+    "fields": {
+      "name": "Mangalore Refinery and Petrochemicals Limited",
+      "symbol": "MRPL",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 235198922752
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 24,
+    "fields": {
+      "name": "MedPlus Health Services Limited",
+      "symbol": "MEDPLUS",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Pharmaceutical Retailers",
+      "market_cap": 88648638464
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 25,
+    "fields": {
+      "name": "Zensar Technologies Limited",
+      "symbol": "ZENSARTECH",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 128053297152
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 26,
+    "fields": {
+      "name": "JBM Auto Limited",
+      "symbol": "JBMA",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 228287660032
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 27,
+    "fields": {
+      "name": "Radico Khaitan Limited",
+      "symbol": "RADICO",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Wineries & Distilleries",
+      "market_cap": 225304674304
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 28,
+    "fields": {
+      "name": "IIFL Finance Limited",
+      "symbol": "IIFL",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 239151710208
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 29,
+    "fields": {
+      "name": "IRB Infrastructure Developers Limited",
+      "symbol": "IRB",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Infrastructure Operations",
+      "market_cap": 276706656256
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 30,
+    "fields": {
+      "name": "Bikaji Foods International Limited",
+      "symbol": "BIKAJI",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 143531360256
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 31,
+    "fields": {
+      "name": "Piramal Pharma Limited",
+      "symbol": "PPLPHARMA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 189711024128
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 32,
+    "fields": {
+      "name": "Affle (India) Limited",
+      "symbol": "AFFLE",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "market_cap": 178151817216
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 33,
+    "fields": {
+      "name": "Shree Renuka Sugars Limited",
+      "symbol": "RENUKA",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "market_cap": 100080967680
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 34,
+    "fields": {
+      "name": "Exide Industries Limited",
+      "symbol": "EXIDEIND",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 278715203584
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 35,
+    "fields": {
+      "name": "Firstsource Solutions Limited",
+      "symbol": "FSL",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 130899853312
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 36,
+    "fields": {
+      "name": "Route Mobile Limited",
+      "symbol": "ROUTE",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "market_cap": 102298836992
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 37,
+    "fields": {
+      "name": "Computer Age Management Services Limited",
+      "symbol": "CAMS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 135696384000
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 38,
+    "fields": {
+      "name": "Equitas Small Finance Bank Limited",
+      "symbol": "EQUITASBNK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 127401263104
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 39,
+    "fields": {
+      "name": "RBL Bank Limited",
+      "symbol": "RBLBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 172297175040
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 40,
+    "fields": {
+      "name": "Happiest Minds Technologies Limited",
+      "symbol": "HAPPSTMNDS",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 133011996672
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 41,
+    "fields": {
+      "name": "Laxmi Organic Industries Limited",
+      "symbol": "LXCHEM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 78143897600
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 42,
+    "fields": {
+      "name": "National Aluminium Company Limited",
+      "symbol": "NATIONALUM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Aluminum",
+      "market_cap": 240047538176
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 43,
+    "fields": {
+      "name": "RITES Limited",
+      "symbol": "RITES",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "market_cap": 126308466688
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 44,
+    "fields": {
+      "name": "CreditAccess Grameen Limited",
+      "symbol": "CREDITACC",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 279277436928
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 45,
+    "fields": {
+      "name": "Chambal Fertilisers and Chemicals Limited",
+      "symbol": "CHAMBLFERT",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "market_cap": 155890286592
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 46,
+    "fields": {
+      "name": "JK Lakshmi Cement Limited",
+      "symbol": "JKLAKSHMI",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 99072253952
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 47,
+    "fields": {
+      "name": "Suzlon Energy Limited",
+      "symbol": "SUZLON",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 591343648768
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 48,
+    "fields": {
+      "name": "NATCO Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 150577774592
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 49,
+    "fields": {
+      "name": "KRBL Limited",
+      "symbol": "KRBL",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 84357406720
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 50,
+    "fields": {
+      "name": "Amara Raja Energy & Mobility Limited",
+      "symbol": "ARE&M",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 138981179392
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 51,
+    "fields": {
+      "name": "J. B. Chemicals & Pharmaceuticals Limited",
+      "symbol": "JBCHEPHARM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 260427399168
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 52,
+    "fields": {
+      "name": "Birla Corporation Limited",
+      "symbol": "BIRLACORPN",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 111384305664
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 53,
+    "fields": {
+      "name": "Elgi Equipments Limited",
+      "symbol": "ELGIEQUIP",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 170827530240
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 54,
+    "fields": {
+      "name": "KEC International Limited",
+      "symbol": "KEC",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "market_cap": 156553740288
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 55,
+    "fields": {
+      "name": "Central Bank of India",
+      "symbol": "CENTRALBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 434046959616
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 56,
+    "fields": {
+      "name": "Global Health Limited",
+      "symbol": "MEDANTA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "market_cap": 267125145600
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 57,
+    "fields": {
+      "name": "Multi Commodity Exchange of India Limited",
+      "symbol": "MCX",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "market_cap": 155841462272
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 58,
+    "fields": {
+      "name": "Finolex Cables Limited",
+      "symbol": "FINCABLES",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 159339495424
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 59,
+    "fields": {
+      "name": "Kalyan Jewellers India Limited",
+      "symbol": "KALYANKJIL",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods",
+      "market_cap": 391573504000
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 60,
+    "fields": {
+      "name": "Indian Energy Exchange Limited",
+      "symbol": "IEX",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "market_cap": 146282233856
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 61,
+    "fields": {
+      "name": "Angel One Limited",
+      "symbol": "ANGELONE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "market_cap": 316547039232
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 62,
+    "fields": {
+      "name": "Triveni Turbine Limited",
+      "symbol": "TRITURBINE",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 124814401536
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 63,
+    "fields": {
+      "name": "Tejas Networks Limited",
+      "symbol": "TEJASNET",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "market_cap": 146999623680
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 64,
+    "fields": {
+      "name": "Indian Overseas Bank",
+      "symbol": "IOB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 809762816000
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 65,
+    "fields": {
+      "name": "Deepak Fertilisers And Petrochemicals Corporation Limited",
+      "symbol": "DEEPAKFERT",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "market_cap": 82060247040
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 66,
+    "fields": {
+      "name": "CEAT Limited",
+      "symbol": "CEATLTD",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 99159367680
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 67,
+    "fields": {
+      "name": "IDBI Bank Limited",
+      "symbol": "IDBI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 719760523264
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 68,
+    "fields": {
+      "name": "UCO Bank",
+      "symbol": "UCOBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 477279813632
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 69,
+    "fields": {
+      "name": "Latent View Analytics Limited",
+      "symbol": "LATENTVIEW",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Consulting Services",
+      "market_cap": 95507783680
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 70,
+    "fields": {
+      "name": "SJVN Limited",
+      "symbol": "SJVN",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Renewable",
+      "market_cap": 357218811904
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 71,
+    "fields": {
+      "name": "PNB Housing Finance Limited",
+      "symbol": "PNBHOUSING",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Mortgage Finance",
+      "market_cap": 203317231616
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 72,
+    "fields": {
+      "name": "Balaji Amines Limited",
+      "symbol": "BALAMINES",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 81243889664
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 73,
+    "fields": {
+      "name": "Glenmark Pharmaceuticals Limited",
+      "symbol": "GLENMARK",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 248279465984
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 74,
+    "fields": {
+      "name": "Central Depository Services (India) Limited",
+      "symbol": "CDSL",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "market_cap": 194505850880
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 75,
+    "fields": {
+      "name": "KEI Industries Limited",
+      "symbol": "KEI",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 284358311936
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 76,
+    "fields": {
+      "name": "IndiaMART InterMESH Limited",
+      "symbol": "INDIAMART",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "market_cap": 154448592896
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 77,
+    "fields": {
+      "name": "V.I.P. Industries Limited",
+      "symbol": "VIPIND",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "market_cap": 80420372480
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 78,
+    "fields": {
+      "name": "BSE Limited",
+      "symbol": "BSE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "market_cap": 306085462016
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 79,
+    "fields": {
+      "name": "CESC Limited",
+      "symbol": "CESC",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Electric",
+      "market_cap": 181536817152
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 80,
+    "fields": {
+      "name": "Mahanagar Gas Limited",
+      "symbol": "MGL",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "market_cap": 116518289408
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 81,
+    "fields": {
+      "name": "Cyient Limited",
+      "symbol": "CYIENT",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "market_cap": 246432579584
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 82,
+    "fields": {
+      "name": "Granules India Limited",
+      "symbol": "GRANULES",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 97929191424
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 83,
+    "fields": {
+      "name": "Redington Limited",
+      "symbol": "REDINGTON",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "market_cap": 138882154496
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 84,
+    "fields": {
+      "name": "PVR INOX Limited",
+      "symbol": "PVRINOX",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "market_cap": 152119967744
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 85,
+    "fields": {
+      "name": "Tata Teleservices (Maharashtra) Limited",
+      "symbol": "TTML",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "market_cap": 183136321536
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 86,
+    "fields": {
+      "name": "Balrampur Chini Mills Limited",
+      "symbol": "BALRAMCHIN",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "market_cap": 78641758208
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 87,
+    "fields": {
+      "name": "Intellect Design Arena Limited",
+      "symbol": "INTELLECT",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "market_cap": 110956142592
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 88,
+    "fields": {
+      "name": "Housing and Urban Development Corporation Limited",
+      "symbol": "HUDCO",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 248135499776
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 89,
+    "fields": {
+      "name": "Jyothy Labs Limited",
+      "symbol": "JYOTHYLAB",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 181382889472
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 90,
+    "fields": {
+      "name": "IDFC Limited",
+      "symbol": "IDFC",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "market_cap": 193677443072
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 91,
+    "fields": {
+      "name": "Can Fin Homes Limited",
+      "symbol": "CANFINHOME",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Mortgage Finance",
+      "market_cap": 101157093376
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 92,
+    "fields": {
+      "name": "HFCL Limited",
+      "symbol": "HFCL",
+      "exchange": "NSE",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "market_cap": 127258427392
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 93,
+    "fields": {
+      "name": "City Union Bank Limited",
+      "symbol": "CUB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 107911241728
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 94,
+    "fields": {
+      "name": "Hindustan Copper Limited",
+      "symbol": "HINDCOPPER",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Copper",
+      "market_cap": 260564631552
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 95,
+    "fields": {
+      "name": "NMDC Steel Limited",
+      "symbol": "NSLNISP",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 142574174208
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 96,
+    "fields": {
+      "name": "APAR Industries Limited",
+      "symbol": "APARINDS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 226480914432
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 97,
+    "fields": {
+      "name": "Easy Trip Planners Limited",
+      "symbol": "EASEMYTRIP",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "market_cap": 76920659968
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 98,
+    "fields": {
+      "name": "Metropolis Healthcare Limited",
+      "symbol": "METROPOLIS",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "market_cap": 82447712256
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 99,
+    "fields": {
+      "name": "Manappuram Finance Limited",
+      "symbol": "MANAPPURAM",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 142243397632
+    }
+  },
+  {
+    "model": "indexes.nifty_smallcap",
+    "pk": 100,
+    "fields": {
+      "name": "Anupam Rasayan India Ltd",
+      "symbol": "ANURAS",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 105213386752
+    }
+  }
+]

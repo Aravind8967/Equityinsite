@@ -1,0 +1,602 @@
+[
+  {
+    "model": "indexes.nifty_next",
+    "pk": 1,
+    "fields": {
+      "name": "Adani Green Energy Limited",
+      "symbol": "ADANIGREEN",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Renewable",
+      "market_cap": 2729679519744
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 2,
+    "fields": {
+      "name": "Trent Limited",
+      "symbol": "TRENT",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Retail",
+      "market_cap": 1128230682624
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 3,
+    "fields": {
+      "name": "United Spirits Limited",
+      "symbol": "MCDOWELL-N",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Wineries & Distilleries",
+      "market_cap": 812854280192
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 4,
+    "fields": {
+      "name": "InterGlobe Aviation Limited",
+      "symbol": "INDIGO",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "market_cap": 1189540265984
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 5,
+    "fields": {
+      "name": "Info Edge (India) Limited",
+      "symbol": "NAUKRI",
+      "exchange": "NSE",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "market_cap": 676818059264
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 6,
+    "fields": {
+      "name": "The Tata Power Company Limited",
+      "symbol": "TATAPOWER",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "market_cap": 1107025592320
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 7,
+    "fields": {
+      "name": "Berger Paints India Limited",
+      "symbol": "BERGEPAINT",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 690858033152
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 8,
+    "fields": {
+      "name": "SBI Cards and Payment Services Limited",
+      "symbol": "SBICARD",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 727948328960
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 9,
+    "fields": {
+      "name": "Life Insurance Corporation of India",
+      "symbol": "LICI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 5306694238208
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 10,
+    "fields": {
+      "name": "Samvardhana Motherson International Limited",
+      "symbol": "MOTHERSON",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 739646242816
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 11,
+    "fields": {
+      "name": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 796327215104
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 12,
+    "fields": {
+      "name": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Independent Power Producers",
+      "market_cap": 1305458114560
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 13,
+    "fields": {
+      "name": "Bajaj Holdings & Investment Limited",
+      "symbol": "BAJAJHLDNG",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "market_cap": 894373724160
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 14,
+    "fields": {
+      "name": "PI Industries Limited",
+      "symbol": "PIIND",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "market_cap": 524728696832
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 15,
+    "fields": {
+      "name": "Avenue Supermarts Limited",
+      "symbol": "DMART",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "market_cap": 2487101423616
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 16,
+    "fields": {
+      "name": "Marico Limited",
+      "symbol": "MARICO",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 686689288192
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 17,
+    "fields": {
+      "name": "Adani Total Gas Limited",
+      "symbol": "ATGL",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "market_cap": 1175641915392
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 18,
+    "fields": {
+      "name": "Pidilite Industries Limited",
+      "symbol": "PIDILITIND",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 1377974353920
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 19,
+    "fields": {
+      "name": "Dabur India Limited",
+      "symbol": "DABUR",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 969925984256
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 20,
+    "fields": {
+      "name": "Jindal Steel & Power Limited",
+      "symbol": "JINDALSTEL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "market_cap": 745685778432
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 21,
+    "fields": {
+      "name": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 779432493056
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 22,
+    "fields": {
+      "name": "Havells India Limited",
+      "symbol": "HAVELLS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 871598981120
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 23,
+    "fields": {
+      "name": "Bank of Baroda Limited",
+      "symbol": "BANKBARODA",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1157608898560
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 24,
+    "fields": {
+      "name": "Vedanta Limited",
+      "symbol": "VEDL",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "market_cap": 992090718208
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 25,
+    "fields": {
+      "name": "Hindustan Aeronautics Limited",
+      "symbol": "HAL",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 2017961181184
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 26,
+    "fields": {
+      "name": "Ambuja Cements Limited",
+      "symbol": "AMBUJACEM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 1044844511232
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 27,
+    "fields": {
+      "name": "ABB India Limited",
+      "symbol": "ABB",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 1045914386432
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 28,
+    "fields": {
+      "name": "Adani Wilmar Limited",
+      "symbol": "AWL",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "market_cap": 480685457408
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 29,
+    "fields": {
+      "name": "Siemens Limited",
+      "symbol": "SIEMENS",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 1488848683008
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 30,
+    "fields": {
+      "name": "TVS Motor Company Limited",
+      "symbol": "TVSMOTOR",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 959818760192
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 31,
+    "fields": {
+      "name": "Bharat Electronics Limited",
+      "symbol": "BEL",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "market_cap": 1356695207936
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 32,
+    "fields": {
+      "name": "Bosch Limited",
+      "symbol": "BOSCHLTD",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "market_cap": 667003650048
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 33,
+    "fields": {
+      "name": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 807651770368
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 34,
+    "fields": {
+      "name": "SRF Limited",
+      "symbol": "SRF",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 814689484800
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 35,
+    "fields": {
+      "name": "Procter & Gamble Hygiene and Health Care Limited",
+      "symbol": "PGHH",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 556163727360
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 36,
+    "fields": {
+      "name": "Zomato Limited",
+      "symbol": "ZOMATO",
+      "exchange": "NSE",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "market_cap": 1153177485312
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 37,
+    "fields": {
+      "name": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified",
+      "market_cap": 683316215808
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 38,
+    "fields": {
+      "name": "Indian Railway Catering & Tourism Corporation Limited",
+      "symbol": "IRCTC",
+      "exchange": "NSE",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "market_cap": 753811062784
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 39,
+    "fields": {
+      "name": "DLF Limited",
+      "symbol": "DLF",
+      "exchange": "NSE",
+      "sector": "Real Estate",
+      "industry": "Real Estate - Development",
+      "market_cap": 1970470518784
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 40,
+    "fields": {
+      "name": "Canara Bank",
+      "symbol": "CANBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 814090878976
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 41,
+    "fields": {
+      "name": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1039551758336
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 42,
+    "fields": {
+      "name": "GAIL (India) Limited",
+      "symbol": "GAIL",
+      "exchange": "NSE",
+      "sector": "Utilities",
+      "industry": "Utilities - Regulated Gas",
+      "market_cap": 1052342419456
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 43,
+    "fields": {
+      "name": "Muthoot Finance Limited",
+      "symbol": "MUTHOOTFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 592292544512
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 44,
+    "fields": {
+      "name": "Varun Beverages Limited",
+      "symbol": "VBL",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic",
+      "market_cap": 1648307601408
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 45,
+    "fields": {
+      "name": "Cholamandalam Investment and Finance Company Limited",
+      "symbol": "CHOLAFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 1021156196352
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 46,
+    "fields": {
+      "name": "Indian Oil Corporation Limited",
+      "symbol": "IOC",
+      "exchange": "NSE",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 1797882380288
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 47,
+    "fields": {
+      "name": "Shree Cement Limited",
+      "symbol": "SHREECEM",
+      "exchange": "NSE",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "market_cap": 968483602432
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 48,
+    "fields": {
+      "name": "Colgate-Palmolive (India) Limited",
+      "symbol": "COLPAL",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 651933384704
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 49,
+    "fields": {
+      "name": "Zydus Lifesciences Limited",
+      "symbol": "ZYDUSLIFE",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 715524210688
+    }
+  },
+  {
+    "model": "indexes.nifty_next",
+    "pk": 50,
+    "fields": {
+      "name": "Godrej Consumer Products Limited",
+      "symbol": "GODREJCP",
+      "exchange": "NSE",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "market_cap": 1167344533504
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 1,
+    "fields": {
+      "name": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 6965590228992
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 2,
+    "fields": {
+      "name": "SBI Cards and Payment Services Limited",
+      "symbol": "SBICARD",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 727948328960
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 3,
+    "fields": {
+      "name": "SBI Life Insurance Company Limited",
+      "symbol": "SBILIFE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 1455557574656
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 4,
+    "fields": {
+      "name": "HDFC Life Insurance Company Limited",
+      "symbol": "HDFCLIFE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 1387068260352
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 5,
+    "fields": {
+      "name": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 12572765978624
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 6,
+    "fields": {
+      "name": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3618749022208
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 7,
+    "fields": {
+      "name": "ICICI Prudential Life Insurance Company Limited",
+      "symbol": "ICICIPRULI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Life",
+      "market_cap": 779432493056
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 8,
+    "fields": {
+      "name": "Indian Energy Exchange Limited",
+      "symbol": "IEX",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "market_cap": 146282233856
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 9,
+    "fields": {
+      "name": "State Bank of India",
+      "symbol": "SBIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 5548875972608
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 10,
+    "fields": {
+      "name": "LIC Housing Finance Limited",
+      "symbol": "LICHSGFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Mortgage Finance",
+      "market_cap": 312298242048
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 11,
+    "fields": {
+      "name": "Bajaj Finance Limited",
+      "symbol": "BAJFINANCE",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 4742670450688
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 12,
+    "fields": {
+      "name": "ICICI Lombard General Insurance Company Limited",
+      "symbol": "ICICIGI",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified",
+      "market_cap": 683316215808
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 13,
+    "fields": {
+      "name": "Shriram Finance Limited",
+      "symbol": "SHRIRAMFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 807651770368
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 14,
+    "fields": {
+      "name": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3414275915776
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 15,
+    "fields": {
+      "name": "HDFC Asset Management Company Limited",
+      "symbol": "HDFCAMC",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "market_cap": 730126614528
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 16,
+    "fields": {
+      "name": "Bajaj Finserv Ltd.",
+      "symbol": "BAJAJFINSV",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Financial Conglomerates",
+      "market_cap": 2660816125952
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 17,
+    "fields": {
+      "name": "Muthoot Finance Limited",
+      "symbol": "MUTHOOTFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 592292544512
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 18,
+    "fields": {
+      "name": "Cholamandalam Investment and Finance Company Limited",
+      "symbol": "CHOLAFIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 1021156196352
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 19,
+    "fields": {
+      "name": "Power Finance Corporation Limited",
+      "symbol": "PFC",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 1288689025024
+    }
+  },
+  {
+    "model": "indexes.nifty_finance",
+    "pk": 20,
+    "fields": {
+      "name": "REC Limited",
+      "symbol": "RECLTD",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 1108058963968
+    }
+  }
+]

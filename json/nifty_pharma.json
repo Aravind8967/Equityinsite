@@ -1,0 +1,242 @@
+[
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 1,
+    "fields": {
+      "name": "GlaxoSmithKline Pharmaceuticals Limited",
+      "symbol": "GLAXO",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 373097562112
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 2,
+    "fields": {
+      "name": "Cipla Limited",
+      "symbol": "CIPLA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 1073972314112
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 3,
+    "fields": {
+      "name": "Ipca Laboratories Limited",
+      "symbol": "IPCALAB",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 283197079552
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 4,
+    "fields": {
+      "name": "Pfizer Limited",
+      "symbol": "PFIZER",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 201337913344
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 5,
+    "fields": {
+      "name": "Lupin Limited",
+      "symbol": "LUPIN",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 639848284160
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 6,
+    "fields": {
+      "name": "Sanofi India Limited",
+      "symbol": "SANOFI",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 195494100992
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 7,
+    "fields": {
+      "name": "Torrent Pharmaceuticals Limited",
+      "symbol": "TORNTPHARM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 796327215104
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 8,
+    "fields": {
+      "name": "Abbott India Limited",
+      "symbol": "ABBOTINDIA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 522929340416
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 9,
+    "fields": {
+      "name": "Biocon Limited",
+      "symbol": "BIOCON",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "market_cap": 336580411392
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 10,
+    "fields": {
+      "name": "Dr. Reddy's Laboratories Limited",
+      "symbol": "DRREDDY",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 963632562176
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 11,
+    "fields": {
+      "name": "Sun Pharmaceutical Industries Limited",
+      "symbol": "SUNPHARMA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 3178752376832
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 12,
+    "fields": {
+      "name": "NATCO Pharma Limited",
+      "symbol": "NATCOPHARM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 150577774592
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 13,
+    "fields": {
+      "name": "Glenmark Pharmaceuticals Limited",
+      "symbol": "GLENMARK",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 248279465984
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 14,
+    "fields": {
+      "name": "Aurobindo Pharma Limited",
+      "symbol": "AUROPHARMA",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 658009489408
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 15,
+    "fields": {
+      "name": "Alkem Laboratories Limited",
+      "symbol": "ALKEM",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 612148838400
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 16,
+    "fields": {
+      "name": "Granules India Limited",
+      "symbol": "GRANULES",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 97929191424
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 17,
+    "fields": {
+      "name": "Zydus Lifesciences Limited",
+      "symbol": "ZYDUSLIFE",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 715524210688
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 18,
+    "fields": {
+      "name": "Laurus Labs Limited",
+      "symbol": "LAURUSLABS",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 226042347520
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 19,
+    "fields": {
+      "name": "Gland Pharma Limited",
+      "symbol": "GLAND",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "market_cap": 314366689280
+    }
+  },
+  {
+    "model": "indexes.nifty_pharma",
+    "pk": 20,
+    "fields": {
+      "name": "Divi's Laboratories Limited",
+      "symbol": "DIVISLAB",
+      "exchange": "NSE",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "market_cap": 1036032540672
+    }
+  }
+]

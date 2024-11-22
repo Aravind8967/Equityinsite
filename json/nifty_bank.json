@@ -1,0 +1,146 @@
+[
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 1,
+    "fields": {
+      "name": "ICICI Bank Limited",
+      "symbol": "ICICIBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 6965590228992
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 2,
+    "fields": {
+      "name": "IndusInd Bank Limited",
+      "symbol": "INDUSINDBK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1275597160448
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 3,
+    "fields": {
+      "name": "HDFC Bank Limited",
+      "symbol": "HDFCBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 12572765978624
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 4,
+    "fields": {
+      "name": "Kotak Mahindra Bank Limited",
+      "symbol": "KOTAKBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3618749022208
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 5,
+    "fields": {
+      "name": "Bank of Baroda Limited",
+      "symbol": "BANKBARODA",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1157608898560
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 6,
+    "fields": {
+      "name": "AU Small Finance Bank Limited",
+      "symbol": "AUBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 516496359424
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 7,
+    "fields": {
+      "name": "State Bank of India",
+      "symbol": "SBIN",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 5548875972608
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 8,
+    "fields": {
+      "name": "The Federal Bank Limited",
+      "symbol": "FEDERALBNK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 369320034304
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 9,
+    "fields": {
+      "name": "IDFC First Bank Limited",
+      "symbol": "IDFCFIRSTB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 592906223616
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 10,
+    "fields": {
+      "name": "Axis Bank Limited",
+      "symbol": "AXISBANK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 3414275915776
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 11,
+    "fields": {
+      "name": "Punjab National Bank",
+      "symbol": "PNB",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 1039551758336
+    }
+  },
+  {
+    "model": "indexes.nifty_bank",
+    "pk": 12,
+    "fields": {
+      "name": "Bandhan Bank Limited",
+      "symbol": "BANDHANBNK",
+      "exchange": "NSE",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "market_cap": 372200734720
+    }
+  }
+]
