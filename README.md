@@ -12,7 +12,7 @@ you can check website visible
 admin website username :- admin password :- 12345 please note these passwords
 user website username :- Aravind password :- 12345 Capture Capture1 Capture2 Capture3 Capture4 Capture5
 
-## Project Images
+## Web page Images
 
 ![image](https://github.com/user-attachments/assets/71a45267-eaa2-46cb-969c-d9a0ab5107d2)
 
